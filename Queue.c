@@ -1,5 +1,5 @@
 /*
-   Linear Queue Implementation.
+   QUEUE IMPLEMENTATION USING ARRAY.
    Date:28-01-2023
 */
 #include <stdio.h>
